@@ -1,4 +1,5 @@
-![ApplePieLogo](https://github.com/user-attachments/assets/b59f827d-9f85-40a7-94c8-4b71685ae2c6)
+![ApplePieLogo](https://github.com/user-attachments/assets/721d8f44-e243-40ff-86c3-27318464793f)
+
 
 
 ApplePie is an open-source BASIC interpreter inspired by the Apple II.
