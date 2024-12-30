@@ -1,3 +1,6 @@
-.LOG
+Log of changes
 
-Fix #5
+ -
+ - 
+ 12/30/2024: Math Calculations Dont Use eval() anymore.
+             Added Hello_World.txt (Example).
