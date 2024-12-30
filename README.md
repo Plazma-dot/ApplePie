@@ -26,5 +26,8 @@ This project is based on the Apple II and BASIC, interpreted through Python. It'
 
 - Python 3.x
 
+- Download requirements:
+  ```pip install -r requirements.txt```
+
 # License
 This project is under MIT license
